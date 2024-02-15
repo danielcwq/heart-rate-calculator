@@ -112,7 +112,7 @@ const HeartRateCalculator = () => {
                 </ul>
               </div>
             )}
-            <div>
+            <div className="mt-5 hover:text-blue-600">
               <Link href="https://trainingtilt.com/how-to-calculate-heart-rate-zones">
                 Understanding the difference between calculation using max HR
                 and heart rate reserves
