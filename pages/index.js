@@ -33,8 +33,8 @@ const HeartRateCalculator = () => {
         // Zone 2 - 60-70% of Max HR
         Math.round(0.6 * maxHR),
         Math.round(0.7 * maxHR),
-        Math.round(0.85 * maxHR),
-        Math.round(0.95 * maxHR),
+        Math.round(0.8 * maxHR),
+        Math.round(0.9 * maxHR),
         Math.round(1 * maxHR),
       ];
     }
